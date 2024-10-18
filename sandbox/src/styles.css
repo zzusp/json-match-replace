@@ -1,0 +1,15 @@
+@import '../node_modules/react-querybuilder/dist/query-builder.css';
+
+
+body {
+  background-color: #ffffff;
+}
+pre {
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 0.25rem;
+  white-space: pre-wrap;
+}
+
+
